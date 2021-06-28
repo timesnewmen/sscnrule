@@ -7,6 +7,9 @@ dns-server = system
 ipv6 = false
 
 [Rule]
+DOMAIN-SUFFIX,ip111.cn,Proxy
+DOMAIN-SUFFIX,ipchaxun.com,Proxy
+DOMAIN-SUFFIX,ipip.net,Proxy
 DOMAIN-SUFFIX,acfun.cn,Proxy
 DOMAIN-SUFFIX,aixifan.com,Proxy
 DOMAIN-SUFFIX,biliapi.net,Proxy
